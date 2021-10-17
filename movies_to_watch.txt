@@ -5,3 +5,4 @@
 // Here are some things written that may cause conflict 
 while mergin develop to the master
 5) Doors are opened
+6) added 6-xth film
