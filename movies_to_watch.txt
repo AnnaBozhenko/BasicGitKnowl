@@ -2,8 +2,6 @@
 2) Wizard
 3) Lizard
 4) Beyond the pines
-// Here are some things written that may cause conflict 
-while mergin develop to the master
 5) Doors are opened
 6) added 6-xth film
 7) beginners
